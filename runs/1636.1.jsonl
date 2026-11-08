@@ -1,2 +1,3 @@
 {"from":"tests","to":"build:api","on":"lock_green","head":"faa565dae26b508c4a116feca60591aca47cdd0b"}
 {"from":"build:api","to":"build:api","on":"red_check","head":"8105a98312be52accbee2f0ba7b8872cd8f82923","check":"01 lint api"}
+{"from":"build:api","to":"journeys","on":"ci_green","head":"f644671b81cfd74804ff675ca5bfc0e0c26e3b38"}
